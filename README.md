@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+LINK: https://github.com/lukkyng/projetoIntegrador
+
+
+
+>>>>>>> 10708f653b58a493487491ad53c4461cd440636b
 # Meu Projeto Integrador
 
 ## Status do Projeto
