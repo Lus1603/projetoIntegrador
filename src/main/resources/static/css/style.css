@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.custom-logo {
+    max-width: 4%;
+}
+
+.custom-rectangle{
+    background-color: rgba(0, gree0, 0, 0.2);
+    border: 5px solid black;
+    padding: 20px;
+}
+
+.custom-logo-container {
+    text-align: left;
+}
+
+.custom-header {
+    background-color: rgb(231, 231, 21);
+    padding: 1px 0;
+    border: 1px solid black
+}
+
