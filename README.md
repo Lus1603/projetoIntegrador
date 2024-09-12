@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 LINK: https://github.com/lukkyng/projetoIntegrador
 
