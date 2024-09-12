@@ -12,7 +12,7 @@ LINK: https://github.com/lukkyng/projetoIntegrador
 ## Tecnologias Utilizadas
 
 - **Linguagem de Programação:**
-  - Java: Utilizado para a lógica do lado do servidor.
+  - Java: Linguagem de programação utilizada para complementar o projeto.
 
 - **Banco de Dados:**
   - MySQL: Sistema de gerenciamento de banco de dados relacional.
@@ -27,7 +27,7 @@ LINK: https://github.com/lukkyng/projetoIntegrador
 - [Luis Ricardo](https://github.com/lukkyng)
 
 ## Objetivo do Software
-O Meu Projeto Incrível tem como objetivo fornecer uma solução para cadastro de produtos e clientes em um mercado.
+Projeto com o objetivo de cadastrar usuários e alimentos com integração em banco de dados.
 
 ## Funcionalidades
 1. **Cadastro de Usuários:** Os usuários podem se cadastrar na plataforma.
